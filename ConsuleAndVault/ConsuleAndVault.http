@@ -1,0 +1,6 @@
+@ConsuleAndVault_HostAddress = http://localhost:5200
+
+GET {{ConsuleAndVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
